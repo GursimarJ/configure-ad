@@ -19,7 +19,6 @@ This walkthrough involves setting up a domain controller and a client on Azure. 
 
 <h2>Technology/Applications/Services </h2>
 
-- osTicket
 - Azure Virtual Machines
 - Active Directory Domain Services
 - PowerShell
