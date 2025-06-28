@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuring On-premises Active Directory within Azure VMs</h1>
-This walkthrough involves setting up a domain controller and a client virtual machine on Azure. We will then join the client to the domain, allowing it to recognize and authenticate user accounts managed by the domain controller.<br />
+This walkthrough involves setting up Active Directory in Azure by creating a domain controller and a client virtual machine. We will promote the server to a domain controller, configure domain services, and then join the client VM to the domain—enabling it to recognize and authenticate user accounts managed through Active Directory.<br />
 
 <h2>Languages</h2>
 
